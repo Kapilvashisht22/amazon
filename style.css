@@ -248,7 +248,7 @@ ul{
     border-top: 0.5px solid white;
 
   }
-  .logo {
+  .logo { 
     background-image: url("amazon_logo.png");
     align-items: center;
     height: 50px;
